@@ -28,6 +28,6 @@ Terminal 2:
 ```shell
 cd ~/Documents/drone_morphing_ros/
 source devel/setup.bash
-rosrun drone_morphing_ros image_listener.py
+rosrun drone_morphing_ros image_proc_node.py
 ```
 
