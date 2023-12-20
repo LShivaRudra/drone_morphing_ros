@@ -1,12 +1,3 @@
----
-title: Drone Morphing ROS interface
-updated: 2023-12-20 01:07:48Z
-created: 2023-12-20 00:58:10Z
-latitude: 28.66189760
-longitude: 77.22739580
-altitude: 0.0000
----
-
 The package consists of two directories:
 - **src:** This contains the code for ROS nodes and necessary processing.
 - **scripts:** This contains the code for transforms and other setup related to the drone hardware.
