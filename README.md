@@ -19,7 +19,7 @@ To execute the package:
 
 Terminal 1:
 ```shell
-cd <path_to_realsense-ros workspace>
+cd <path to realsense-ros workspace>
 source devel/setup.bash
 roslaunch realsense2_camera demo_pointcloud.launch
 ```
